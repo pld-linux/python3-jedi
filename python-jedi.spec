@@ -42,6 +42,7 @@ BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
 %if %{with doc}
 BuildRequires:	python3-graphviz
+BuildRequires:	python3-parso >= 0.7.0
 BuildRequires:	sphinx-pdg-3
 %endif
 Requires:	python-modules >= 1:2.7
