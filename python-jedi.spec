@@ -9,7 +9,7 @@ Summary:	An autocompletion tool for Python that can be used for text editors
 Summary(pl.UTF-8):	Narzędzie do automatycznego dopełaniania dla Pythona, nadające się do użycia w edytorach
 Name:		python-jedi
 Version:	0.17.0
-Release:	1
+Release:	2
 License:	MIT (Jedi), Apache v2.0 (typeshed)
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jedi/
