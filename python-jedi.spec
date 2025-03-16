@@ -45,6 +45,7 @@ BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.714
 %if %{with doc}
 BuildRequires:	python-parso >= 0.7.0
+BuildRequires:	python-sphinx_rtd_theme
 BuildRequires:	sphinx-pdg-2
 %endif
 Requires:	python-modules >= 1:2.7
