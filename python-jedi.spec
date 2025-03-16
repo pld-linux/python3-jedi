@@ -10,7 +10,7 @@ Summary(pl.UTF-8):	Narzędzie do automatycznego dopełaniania dla Pythona, nadaj
 Name:		python-jedi
 # keep 0.17.x here for python2 support
 Version:	0.17.2
-Release:	6
+Release:	7
 License:	MIT (Jedi), Apache v2.0 (typeshed)
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jedi/
